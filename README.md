@@ -1,8 +1,7 @@
 # Weather-app
 
-```
 This is a build of a weather app developed using the following libraries:
-```
+
 - React.js
 - Babel 7
 - Webpack
