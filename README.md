@@ -23,3 +23,7 @@ If no Geo data is available then an approximation is made using the users IP add
 
 ## CORS
 A workaround for the https (Weather-app) to http (Openweathermap API) is made using `https://cors-anywhere.herokuapp.com`.
+
+## Note
+The build size is over 1MB which is well above the optimization standard for an app of this size. The reason for is because the `Recharts` library has a dependency to Lodash, the entire Lodash.
+I will transition to a different chart library in time. 
