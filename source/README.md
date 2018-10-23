@@ -18,3 +18,6 @@ Simple weather app using https://openweathermap.org/ API
 * Run `npm run dev` for development
 * Run `npm run build` for production
 
+## Note
+
+* Create your own API key on https://openweathermap.org/api and paste it in the `weather-app/source/src/js/service/services.js` in the `const` `apiKey` 
