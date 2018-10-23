@@ -1,0 +1,21 @@
+.current-weather {
+	height: 100vh;
+}
+
+.current-weather * {
+	color: #ffffffe6 !important;
+}
+
+.test {
+	background-color: red;
+}
+
+.avatar-circle {
+  /*border: 10px solid;*/
+  border-radius: 50%;
+  /*width: 200px;*/
+  /*height: 200px;*/
+  background: radial-gradient(ellipse at 90px 45px, rgba(255, 255, 255, 0.75) 10%, rgba(255,255,255,0.5) 30%, rgba(255,255,255,0) 32%, rgba(25,240,0,1) 45%), linear-gradient(160deg, transparent 12%, rgb(25, 240, 0) 30%);
+  background-size: 125% 80%, 100% 100%;
+  background-repeat: no-repeat;
+}
