@@ -1,4 +1,5 @@
 # Weather-app
+# Transitioning to PWA (in progress)
 
 This is a build of a weather app developed using the following libraries:
 
